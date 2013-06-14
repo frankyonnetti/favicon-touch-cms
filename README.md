@@ -1,4 +1,4 @@
-touch-cms-fav-icon
+##Touch, CMS & favicon
 
 PSD template for creating the many icons needed for the websites we build. Including CMS theme settings page.
 
