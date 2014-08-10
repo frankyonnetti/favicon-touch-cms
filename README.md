@@ -15,7 +15,7 @@ _Touch icons in head:_
 
     <link rel="apple-touch-icon-precomposed" href="/images/touch/apple-touch-icon.png">
 
-_Tile icon for Win8 (144x144 + tile color):_
+_Tile icon for Win8:_
 
     <meta name="msapplication-TileImage" content="/images/touch/apple-touch-icon.png">
     <meta name="msapplication-TileColor" content="#333">
@@ -24,5 +24,5 @@ _Tile icon for Win8 (144x144 + tile color):_
 
 #### Exporting png's to favicon
 
-To export the png's (48px, 32px & 16px) to ICO format, I use a great little app called [Icon Slate](http://www.kodlian.com/apps/icon-slate)
+To export the png's to ICO format, I use a great little app called [Icon Slate](http://www.kodlian.com/apps/icon-slate)
 
