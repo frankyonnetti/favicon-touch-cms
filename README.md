@@ -13,15 +13,11 @@ _favicon:_
 
 _Touch icons in head:_
 
-    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/images/touch/apple-touch-icon-144x144-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/images/touch/apple-touch-icon-114x114-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/images/touch/apple-touch-icon-72x72-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" sizes="57x57" href="/images/touch/apple-touch-icon-57x57-precomposed.png">
     <link rel="apple-touch-icon-precomposed" href="/images/touch/apple-touch-icon.png">
 
 _Tile icon for Win8 (144x144 + tile color):_
 
-    <meta name="msapplication-TileImage" content="/img/touch/apple-touch-icon-144x144-precomposed.png">
+    <meta name="msapplication-TileImage" content="/images/touch/apple-touch-icon.png">
     <meta name="msapplication-TileColor" content="#333">
 
 ---
