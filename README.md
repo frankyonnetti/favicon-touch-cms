@@ -1,11 +1,11 @@
-##Touch, CMS & favicon
+## Touch, CMS & favicon
 
 Photoshop and Sketch template for creating the touch, CMS & favicon icons needed for a websites we build. Including CMS theme settings page.
 
 
 ### Code that get's placed in the `<head>`
 
-favicon:
+Favicon:
 
     <link type="image/x-icon" rel="shortcut icon" href="/favicon.ico">
 
