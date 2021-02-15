@@ -1,6 +1,6 @@
 ##Touch, CMS & favicon
 
-Photoshop template for creating the many icons needed for the websites we build. Including CMS theme settings page.
+Photoshop and Sketch template for creating the touch, CMS & favicon icons needed for a websites we build. Including CMS theme settings page.
 
 
 ### Code that get's placed in the `<head>`
@@ -9,13 +9,9 @@ favicon:
 
     <link type="image/x-icon" rel="shortcut icon" href="/favicon.ico">
 
-[Touch icons](https://developer.apple.com/ios/human-interface-guidelines/icons-and-images/app-icon/) in head:
+Touch icon for iOS:
 
     <link rel="apple-touch-icon" href="/images/touch/apple-touch-icon.png">
-    <link rel="apple-touch-icon" sizes="120x120" href="/images/touch/apple-touch-icon-120x120.png">
-    <link rel="apple-touch-icon" sizes="152x152" href="/images/touch/apple-touch-icon-152x152.png">
-    <link rel="apple-touch-icon" sizes="167x167" href="/images/touch/apple-touch-icon-167x167.png">
-    <link rel="apple-touch-icon" sizes="180x180" href="/images/touch/apple-touch-icon-180x180.png">
 
 Tile icon for Windows
 
